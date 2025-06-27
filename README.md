@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Promise
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Python | Javascript | C#
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on any project that can improve my skills
 - 📫 Twitter: Promise_Chime email: chimepromise433@gmail.com
 
